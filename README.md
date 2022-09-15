@@ -1,1 +1,1 @@
-# ThreeJSJourney
+# Three.JS Journey
